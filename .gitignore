@@ -1,0 +1,14 @@
+**/__pycache__/**
+**/*.pyc
+venv/
+**/.vscode/**
+logs/
+slurm_logs/
+graphs/
+_internal/
+results/
+.vscode/
+**/*.pdf
+run-eval.sh
+*.ipynb
+_data/

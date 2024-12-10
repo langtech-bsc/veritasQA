@@ -6,7 +6,6 @@ logs/
 slurm_logs/
 graphs/
 _internal/
-results/
 .vscode/
 **/*.pdf
 run-eval.sh
